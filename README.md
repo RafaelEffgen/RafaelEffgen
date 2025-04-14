@@ -34,8 +34,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
-
 <img src="https://raw.githubusercontent.com/RafaelEffgen/RafaelEffgen/output/snake.svg" alt="Snake animation" />
 
-###
